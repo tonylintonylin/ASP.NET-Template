@@ -1,0 +1,10 @@
+obj/
+bin/
+Properties/
+appsettings.json
+*.sln
+.vscode/
+.vs/
+*.log
+*.mdf
+*.ldf
